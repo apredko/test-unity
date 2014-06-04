@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collect.js">
+    <Files>
+      <File FileName="Assets/Scripts/Collect.js" Line="55" Column="3" />
+      <File FileName="Assets/Scripts/EnemyAI.js" Line="21" Column="2" />
+      <File FileName="Assets/Scripts/Run_Crouch.js" Line="11" Column="18" />
+      <File FileName="Assets/Scripts/EnemyFollow.js" Line="32" Column="26" />
+      <File FileName="Assets/Scripts/Start.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Begin.js" Line="23" Column="3" />
+      <File FileName="Assets/start.js" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/Restart.js" Line="12" Column="2" />
+      <File FileName="Assets/_Scripts/CollectPapers.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scripts" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Collect.js" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
